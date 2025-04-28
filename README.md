@@ -90,4 +90,4 @@ Check if all queries are correctly linked
 ## This Image show the step by step procedure on how you edit the raw data 
 ![picture](https://github.com/Zomue/Zomue/blob/main/Midterm%20Lab%20Task/Images/Note%20pad.png)
 
-
+[BACK TO PORTFOLIO](https://zomue.github.io/)
