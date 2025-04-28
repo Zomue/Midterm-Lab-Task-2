@@ -84,10 +84,29 @@ Group rows by State Full Name and get the average for Min and Max Salary
 ## Step 13: View Query Dependencies
 Go to View Menu → Click Dependencies
 Check if all queries are correctly linked
-## This show the Query Denpendencies
-![picture](https://github.com/Zomue/Zomue/blob/main/Midterm%20Lab%20Task/Images/Query%20Dependencies%20orig.png)
+## Here’s the screenshots before data cleaning.
+![image](https://github.com/user-attachments/assets/fd6473b7-1ccd-45ad-98bc-10e24cd1df13)
 
-## This Image show the step by step procedure on how you edit the raw data 
-![picture](https://github.com/Zomue/Zomue/blob/main/Midterm%20Lab%20Task/Images/Note%20pad.png)
+## Here’s the screenshots when I started data cleaning.
+![image](https://github.com/user-attachments/assets/b56f819e-e828-419d-926b-3c3fc03b4367)
+
+## Here’s the screenshots of Advanced Editor.
+![image](https://github.com/user-attachments/assets/f18bcf85-8953-4644-aa8a-b41d9dc16b32)
+
+## Here’s the screenshot of Sal By Role type.
+![image](https://github.com/user-attachments/assets/d808dc98-5019-4d59-9598-47a273d9f7d7)
+
+## Here’s the screenshot of Sal By Size.
+![image](https://github.com/user-attachments/assets/6056c066-f293-4d6c-b465-ef5608585dd2)
+
+## Here’s the screenshot of the States.
+![image](https://github.com/user-attachments/assets/4082e7f9-3023-41a8-8c27-e1fbf3c92e39)
+
+## Here’s the screenshot of Sal By State.
+![image](https://github.com/user-attachments/assets/ec67d4d8-f777-4ae5-9610-2fee1ad2f4b9)
+
+## Here’s the screenshot of the Query Dependencies.
+![image](https://github.com/user-attachments/assets/52341fa8-aa5a-4a4b-a374-eb1d7075ea95)
+
 
 [BACK TO PORTFOLIO](https://zomue.github.io/)
